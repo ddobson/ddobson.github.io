@@ -1,3 +1,13 @@
 .icon-sprite {
   font-size: 4em;
 }
+
+.hero-icon {
+  color: #FFFFFF;
+  margin-top: 18px;
+  padding: 5px;
+}
+
+.hero-icon:hover {
+  color: #F26F21;
+}
