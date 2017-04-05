@@ -9,5 +9,12 @@
 }
 
 .hero-icon:hover {
-  color: #F26F21;
+  color: #0A8FD5;
+}
+.cta-quote.footer-quote {
+  background-color: #101010;
+}
+
+.footer-content {
+  padding: 50px 0;
 }
