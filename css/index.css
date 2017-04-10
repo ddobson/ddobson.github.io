@@ -11,6 +11,19 @@
 .hero-icon:hover {
   color: #0A8FD5;
 }
+
+.port-button-space {
+  margin-left: 5px;
+}
+
+.footer-icon {
+  color: #FFFFFF;
+}
+
+.footer-icon:hover {
+  color: #0A8FD5;
+}
+
 .cta-quote.footer-quote {
   background-color: #101010;
 }
